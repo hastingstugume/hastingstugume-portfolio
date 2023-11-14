@@ -1,0 +1,19 @@
+{
+  "education": [
+    {
+      "title": "August 2019 - June 2023",
+      "cardTitle": "BSc, Software Engineering",
+      "cardSubtitle": "Makerere University, Kampala",
+      "cardDetailedText": "CGPA - 4.58",
+      "icon": {
+        "src": "images/education/muk-logo.png"
+      }
+    },
+    {
+      "title": "November 2018",
+      "cardTitle": "High School",
+      "cardSubtitle": "Blessed Sacrament SS Kimaanya, Masaka",
+      "cardDetailedText": "Grade - 20 points"
+    }
+  ]
+}
