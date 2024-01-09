@@ -1,7 +1,5 @@
 import React, { useContext } from 'react';
-import {
-  Button, Card, Badge, Col,
-} from 'react-bootstrap';
+import { Button, Card, Badge, Col } from 'react-bootstrap';
 import PropTypes from 'prop-types';
 import { ThemeContext } from 'styled-components';
 import ReactMarkdown from 'react-markdown';
@@ -94,10 +92,12 @@ ProjectCard.propTypes = {
     title: PropTypes.string.isRequired,
     bodyText: PropTypes.string.isRequired,
     image: PropTypes.string,
-    links: PropTypes.arrayOf(PropTypes.shape({
-      text: PropTypes.string.isRequired,
-      href: PropTypes.string.isRequired,
-    })),
+    links: PropTypes.arrayOf(
+      PropTypes.shape({
+        text: PropTypes.string.isRequired,
+        href: PropTypes.string.isRequired,
+      })
+    ),
     tags: PropTypes.arrayOf(PropTypes.string),
   }).isRequired,
 };
