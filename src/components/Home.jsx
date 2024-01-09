@@ -50,7 +50,9 @@ function Home() {
         <Social />
       </div>
     </Fade>
-  ) : <FallbackSpinner />;
+  ) : (
+    <FallbackSpinner />
+  );
 }
 
 export default Home;

@@ -46,7 +46,7 @@
         },
         {
             "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
+            "title": "Reading Aid for the Blind (RAB) App",
             "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
             "links": [
                 {

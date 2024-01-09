@@ -1,16 +1,16 @@
 {
-    "social": [
-        {
-            "network" : "linkedin",
-            "href": "https://linkedin.com/"
-        },
-        {
-            "network" : "github",
-            "href": "https://github.com/mayankagarwal09"
-        },
-        {
-            "network" : "email",
-            "href": "mailto:test@test.com"
-        }
-    ]
+  "social": [
+    {
+      "network": "linkedin",
+      "href": "https://www.linkedin.com/in/hastingstugume/"
+    },
+    {
+      "network": "github",
+      "href": "https://github.com/hastingstugume"
+    },
+    {
+      "network": "email",
+      "href": "mailto:hastingstugume@gmail.com.com"
+    }
+  ]
 }

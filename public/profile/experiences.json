@@ -1,20 +1,36 @@
 {
   "experiences": [
     {
+      "title": "ICT Director",
+      "subtitle": "Eden Temple International",
+      "workType": "Full-time",
+      "workDescription": [
+        "Developed a comprehensive cross platform mobile application and a web-based application to manage children sponsorship for Eden's Child.",
+        "The web system serves as a centralized platform for efficiently handling various aspects of child sponsorship"
+      ],
+
+      "dateText": "06/2023 – Present"
+    },
+    {
       "title": "Software Developer",
       "subtitle": "Pahappa Ltd",
       "workType": "Full-time",
       "workDescription": [
-        "Integrated **2** new product.",
-        "Worked on adding **def** to **bcd**. Improved speed by 50%."
+        "Contributed to building a groundbreaking content generation system using React for the frontend and Spring MVC for backend services.",
+        "Integrated Hibernate and Maven for a responsive application tailored to African businesses' operations."
       ],
+
       "dateText": "11/2022 – 05/2023"
     },
     {
       "title": "Software Developer Intern",
       "subtitle": "NobleProg Ltd",
       "workType": "Internship",
-      "workDescription": ["Worked on abc."],
+      "workDescription": [
+        "Utilized frontend and backend skills to develop web systems.",
+        "Worked with PHP, JavaScript, CSS, HTML5, Drupal, jQuery, Bootstrap, MySQL, and Linux.",
+        "Demonstrated strong communication skills and exercised team leadership."
+      ],
       "dateText": "08/2022 – 11/2022"
     },
     {
@@ -22,8 +38,9 @@
       "subtitle": "Parliament of Uganda",
       "workType": "Internship",
       "workDescription": [
-        "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-        "Done bcd work."
+        "Provided technical support for hardware and software issues, ensuring seamless parliamentary operations.",
+        "Optimized internal network systems, enhancing communication among staff.",
+        "Proactively maintained a smooth ICT environment, contributing to streamlined parliamentary operations."
       ],
       "dateText": "06/2022 – 07/2022"
     }
