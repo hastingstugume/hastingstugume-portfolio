@@ -54,7 +54,7 @@ function About(props) {
                   <img
                     src={data?.imageSource}
                     alt="profile"
-                    style={{ width: '500px', height: '500px' }}
+                    style={{ width: '300px', height: '300px' }}
                   />
                 </Col>
               </Row>
