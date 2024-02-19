@@ -20,12 +20,7 @@
       "image": "images/projects/rab.png",
       "title": "Reading Aid for the Blind (RAB) App",
       "bodyText": "- An Android App that aids the visually impaired to read text in printed font.",
-      "links": [
-        {
-          "text": "GitHub",
-          "href": "https://github.com/BSE23-15-Final-Year-Project/Javacode"
-        }
-      ],
+      "links": [],
       "tags": [
         "Java",
         "Android",
